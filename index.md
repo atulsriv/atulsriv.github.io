@@ -1,7 +1,19 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## Welcome to my blog! 
 
-![Image of fast.ai logo](images/logo.png)
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/ASriv98"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
-## This is a title
+<h1 align="center">Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
+### :technologist: &nbsp;About Me :
+
+I am a Software/Computer/Electrical Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- 🔭 I’m working as a Software Engineer contributing to blockchain technology with history of working in electric vehicle development and embedded systems.
+
+---
+
