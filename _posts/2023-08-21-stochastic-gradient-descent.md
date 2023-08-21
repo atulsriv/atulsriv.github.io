@@ -5,7 +5,7 @@ Recently, I've been exploring deep learning.  In particular, I've been going thr
 In particular, I am going to be focusing on [Chapter 4](https://nbviewer.org/github/fastai/fastbook/blob/master/04_mnist_basics.ipynb) project of the FastAI course which focuses on Stochastic Gradient Descent. By the end of the article, I want to showcase a full example of how to create a digit classifier using Stochastic Gradient Descent and creating our own neural network!
 
 ## The Problem 
-![4](../files/sgd-links/five.png)
+![4](https://github.com/atulsriv/atulsriv.github.io/blob/master/files/sgd-links/five.png)
 
 How can we classify this image of a 5 programmatically? Easy enough to do in our brains, but let's explore how to do this with some simple deep learning. I'm going to focus on how to do this using **PyTorch**, but then I will also try to do a quick walk through of how to do this using some higher level functionalities offered by **FastAI** 
 
@@ -72,10 +72,7 @@ for index in range(1, 128):
   plt.imshow(images[index].numpy().squeeze(), cmap='gray_r')
 ```
 
-![plot](../files/sgd-links/image_plot.png)
-
-
-
+![plot](https://github.com/atulsriv/atulsriv.github.io/blob/master/files/sgd-links/image_plot.png)
 
 ## Creating a Neural Network
 Quite frankly, it took some time to wrap my head around the neural network concept of this classifier. This video does a great job of explaining it, albeit the example is using Keras: https://www.youtube.com/watch?v=viHXPOgSvBo. Tune into minute 8-11. 
@@ -97,7 +94,7 @@ print(model)
 ``` 
 
 
-![neural](../files/sgd-links/nueral-network.png)
+![neural](https://github.com/atulsriv/atulsriv.github.io/blob/master/files/sgd-links/nueral-network.png)
 We are following this general pattern, going from an input layer, applying some functions (hidden layer), and coming up with an output layer.
 The input layer is a flattened version of our image, you can think of this as a 1-D array. `input_size` being 784 is simply just 28x28, from the pixels of the image.
 
